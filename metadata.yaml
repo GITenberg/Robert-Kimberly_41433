@@ -1,0 +1,41 @@
+_repo: Robert-Kimberly_41433
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Flagg, James Montgomery
+    alias: Flagg, J. Montgomery
+    birthdate: 1877
+    deathdate: 1960
+    gutenberg_agent_id: '25940'
+    url: http://www.gutenberg.org/2009/agents/25940
+    wikipedia: http://en.wikipedia.org/wiki/James_Montgomery_Flagg
+covers:
+- cover_type: archival
+  image_path: 41433-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Spearman, Frank H. (Frank Hamilton)
+    alias: Spearman, Frank Hamilton
+    birthdate: 1859
+    deathdate: 1937
+    gutenberg_agent_id: '25772'
+    url: http://www.gutenberg.org/2009/agents/25772
+    wikipedia: http://en.wikipedia.org/wiki/Frank_H._Spearman
+description: ''
+gutenberg_issued: '2012-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41433'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sugar trade -- Fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Divorce -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+title: Robert Kimberly
+url: http://www.gutenberg.org/ebooks/41433
